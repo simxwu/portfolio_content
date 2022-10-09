@@ -58,10 +58,10 @@ img#lobster{width: 30%;
     padding: 2px;}
 
 
-img#store:hover{
+img.store:hover{
     opacity: .5;
 }
 
-img#foodpic:hover{
+img.foodpic:hover{
     opacity: .7;
 }
